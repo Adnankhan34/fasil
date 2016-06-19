@@ -9,6 +9,7 @@ public class calculation {
 		// TODO Auto-generated method stub
 
 		System.out.println("adnan khan day");
+		System.out.println("adnan khan day");
 		
 		
 		
