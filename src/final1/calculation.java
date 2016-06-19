@@ -10,6 +10,7 @@ public class calculation {
 
 		System.out.println("adnan khan day");
 		System.out.println("adnan khan day");
+		System.out.println("adnan khan day");
 		
 		
 		
